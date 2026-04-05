@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/newsletter_editor/__init__.py
+src/newsletter_editor/cli.py
+src/newsletter_editor/core.py
+src/newsletter_editor/web_ui.py
+src/newsletter_editor.egg-info/PKG-INFO
+src/newsletter_editor.egg-info/SOURCES.txt
+src/newsletter_editor.egg-info/dependency_links.txt
+src/newsletter_editor.egg-info/entry_points.txt
+src/newsletter_editor.egg-info/requires.txt
+src/newsletter_editor.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_core.py

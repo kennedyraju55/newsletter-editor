@@ -1,0 +1,2 @@
+[console_scripts]
+newsletter-editor = newsletter_editor.cli:main
